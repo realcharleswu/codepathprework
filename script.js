@@ -2,7 +2,7 @@ const clueHoldTime = 1000;
 const cluePauseTime = 333; //how long to pause in between clues
 const nextClueWaitTime = 1000; //how long to wait before starting playback of the clue sequence
 
-const numBtns = 4;
+const numBtns = 6;
 const patternLength = 8;
 var pattern = [];
 var progress = 0;
@@ -13,8 +13,8 @@ var volume = 0.5;
 
 var guessCounter = 0;
 
-function randomInt(max) { //1 - max
-  return Math.floor(Math.random() * max+1);
+function randomInt(max) { //1 to max
+  return Math.floor(Math.random()*max + 1);
 }
 
 function randomPattern(ptrnLen) { //generate random pattern of prtnLen, return type is list
@@ -46,7 +46,9 @@ const freqMap = {
   1: 261.6,
   2: 329.6,
   3: 392,
-  4: 466.2
+  4: 466.2,
+  5: 523.2,
+  6: 587.3
 }
 function playTone(btn,len){ 
   o.frequency.value = freqMap[btn]
