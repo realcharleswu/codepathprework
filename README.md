@@ -4,7 +4,7 @@
 
 Submitted by: **Charles Wu**
 
-Time spent: **7** hours spent in total
+Time spent: **6** hours spent in total
 
 Link to project: https://glitch.com/edit/#!/first-loud-show
 
@@ -39,10 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+![](https://i.imgur.com/2n1gnvb.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
@@ -76,12 +73,12 @@ the game to beat their score, and if their score was stored in cookies, they may
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+https://drive.google.com/file/d/1of3GJ8vAnpDfwHuHP6IDvaosio9pFG_k/view?usp=sharing
 
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright Charles Wu
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
