@@ -73,7 +73,7 @@ the game to beat their score, and if their score was stored in cookies, they may
 
 ## Interview Recording URL Link
 
-https://drive.google.com/file/d/1of3GJ8vAnpDfwHuHP6IDvaosio9pFG_k/view?usp=sharing
+[My 5-minute Interview Recording]https://drive.google.com/file/d/1of3GJ8vAnpDfwHuHP6IDvaosio9pFG_k/view?usp=sharing
 
 
 ## License
