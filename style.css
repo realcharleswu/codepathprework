@@ -73,6 +73,22 @@ button {
   background: yellow;
 }
 
+#b5 {
+  background: orchid;
+}
+
+#b5:active, #b5.lit  {
+  background: darkorchid;
+}
+
+#b6 {
+  background: coral;
+}
+
+#b6:active, #b6.lit  {
+  background: chocolate;
+}
+
 .hidden {
   display: none;
 }
